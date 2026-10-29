@@ -1,0 +1,6 @@
+{
+  "name": "Control Financiero de Clínica",
+  "description": "Frontend del MVP de control financiero, cartera y pagos para clínica médica en Colombia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
